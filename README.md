@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 Hi there! I'm  Sujit, a passionate and experienced Flutter developer dedicated to crafting high-quality, cross-platform mobile applications. With a strong background in software development and a keen eye for UI/UX design, I strive to deliver seamless and intuitive user experiences.<br><br>🔹 Get in Touch:<br>I'm always open to discussing new projects, collaborations, or just sharing knowledge about Flutter and mobile development. Feel free to reach out!<br>
+# 💫 About Me
+👋 Hi, I'm **Sujit More** — a passionate **Flutter Developer** focused on building high-performance, beautiful, and scalable mobile applications. I love creating clean and maintainable code, and I’m always learning the latest in mobile tech to stay ahead.
+
+📱 **Specialized in:**
+- Cross-platform mobile development with Flutter
+- Intuitive UI/UX design
+- API integration & real-time data (Sockets, Firebase, Supabase)
+- Scalable app architecture (MVVM, Provider, Bloc, GetX)
 
 
 ## 🌐 Socials:
