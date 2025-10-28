@@ -81,10 +81,24 @@ I focus on **maintainable code**, **smooth user experiences**, and **modern app 
 ---
 
 # 🏆 Featured Projects
-🔹 [**MoneyMic App**](#) – Flutter trading app with real-time data, MVVM, and Firebase integration  
-🔹 [**Dream11 Clone**](#) – Fantasy sports app using Provider and GoRouter  
-🔹 [**Stock Search Platform**](#) – REST API & Supabase integration with modern UI  
-🔹 [**Notification System (FCM)**](#) – MVVM + Provider + Firebase Cloud Messaging  
+
+🔹 MoneyMic App
+ – A Flutter trading platform featuring real-time market data, built with MVVM architecture and Firebase integration for secure authentication and analytics.
+
+🔹 Flutter A–Z Guide 2025
+ – A comprehensive Flutter learning app covering practical examples from beginner to advanced, using Provider and GoRouter for modular architecture.
+
+🔹 Monthly Expense Tracker
+ – A personal finance app leveraging REST APIs and Supabase to track expenses and visualize insights with a modern, minimal UI.
+
+🔹 Lenskart Clone UI
+ – A Flutter-based e-commerce UI clone of the Lenskart app, implemented with MVVM architecture, Provider for state management, and Firebase for backend features.
+
+🔹 Paytm UI Clone
+ – A payment app UI replica designed with MVVM + Provider, focusing on scalable architecture, component reusability, and smooth navigation.
+
+🔹 My Classroom
+ – A Flutter education management app integrating Firebase and Provider (MVVM) for seamless student–teacher interaction, attendance tracking, and notifications. 
 
 ---
 
